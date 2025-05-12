@@ -13,9 +13,9 @@ _Guía de uso y referencia científica para el addon en Blender 3.x_
 
 ## 1. Instalación
 
-1. Descarga el archivo `plastico.py`.  
+1. Descarga el archivo `ecoplastictools.py`.  
 2. En Blender, ve a **Editar → Preferencias → Add-ons → Instalar...**.  
-3. Selecciona `plastico.py` y haz clic en **Instalar add-on**.  
+3. Selecciona `ecoplastictools.py` y haz clic en **Instalar add-on**.  
 4. Activa el addon marcando su casilla en la lista.  
 
 ---
