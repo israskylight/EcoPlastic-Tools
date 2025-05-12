@@ -1,4 +1,4 @@
-# EcoPlastic-Tools
+# EcoPlastic-Tools Blender Add-on
 Blender add-on to calculate the carbon footprint of an object made of plastic and assists in the selection of plastic.
 
 _Guía de uso y referencia científica para el addon en Blender 3.x_
